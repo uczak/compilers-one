@@ -1,0 +1,24 @@
+1 - a 
+[1] IDENTIFICADOR 1 
+[2] IDENTIFICADOR 1 
+[3] INT 
+4 - asd 
+[4] IDENTIFICADOR 2 
+5 - as123 
+[5] IDENTIFICADOR 3 
+6 - 99 
+[6] IDENTIFICADOR 4 
+7 (99.) 
+8 - 99.99 
+[8] IDENTIFICADOR 5 
+[9] FLOAT 
+10 (real a) 
+[11] REAL 
+12 (double _c) 
+[13] DOUBLE 
+14 (as_asd) 
+[15] IDENTIFICADOR 2 
+[16] COMENTARIO 
+17 (-- Teste) 
+18 (Joao da Silva --) 
+[19] CHAR 
